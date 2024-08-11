@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="container" align="center">
  <div style="text-align: center;">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFiZ3Z1MDBicGZzNzdhNWtxajF2OHU2MWh4d3JrMXVjYXNwam4xdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
     <br>
@@ -7,7 +7,7 @@
 
 ## :wave: Hi there!
 
-My name is Olesya, I am a frontend developer with experience in adaptive and semantic layout, creating SPA applications on Vue3.
+My name is Olesya, I am a frontend developer with experience in adaptive and semantic layout, creating SPA applications on Vue3.<br>
 I strive to deepen my knowledge in JavaScript and Vue.js, as well as to master new technologies. I would be happy to join a team where I can develop and contribute to interesting projects.
 
 ---
@@ -31,12 +31,12 @@ I strive to deepen my knowledge in JavaScript and Vue.js, as well as to master n
 
 <div align="left">
   
-- Commercial project done in a team of other developers: [https://recover-tradein.ru](https://recover-tradein.ru), where I adaptively layout on Vue3, was responsible for the deploy.
-- Test project [https://olekhnovich.pachev.xyz](https://olekhnovich.pachev.xyz) - made adaptively and cross-browser using semantic layout in the stack: HTML5, SCSS, JavaScript, Vite, Swiper.
-- Copy of the first page of Russian director A. Zvyagintsev's website: [https://olehouseproduction.github.io/producer/](https://olehouseproduction.github.io/producer/).
-- A garbage sorting game on vanilla JS: [https://olehouseproduction.github.io/game/](https://olehouseproduction.github.io/game/) (desktop version).
-- Last adaptive, cross-platform test on vanilla JS was done without providing a layout: [https://olehouseproduction.github.io/level-up/](https://olehouseproduction.github.io/level-up/)
-- Worked with Vue for portfolio (grid, animations) which can be viewed in the repository: [https://github.com/Olehouseproduction/portfolio](https://github.com/Olehouseproduction/portfolio)
+- [Commercial project](https://recover-tradein.ru) done in a team of other developers, where I adaptively layout on Vue3, was responsible for the deploy.
+- [Test project](https://olekhnovich.pachev.xyz) - made adaptively and cross-browser using semantic layout in the stack: HTML5, SCSS, JavaScript, Vite, Swiper.
+- Copy of the [first page](https://olehouseproduction.github.io/producer/) of Russian director A. Zvyagintsev's website.
+- A garbage sorting [game](https://olehouseproduction.github.io/game/) on vanilla JS:  (desktop version).
+- [Last adaptive, cross-platform test](https://olehouseproduction.github.io/level-up/) on vanilla JS was done without providing a layout.
+- Worked with Vue for portfolio (grid, animations) which can be viewed in the [repository](https://github.com/Olehouseproduction/portfolio).
 
 </div>
 
@@ -44,7 +44,7 @@ I strive to deepen my knowledge in JavaScript and Vue.js, as well as to master n
 
 ### 📫 How to reach me:
 
-Write to Telegram: [https://t.me/Olehouseproduction](https://t.me/Olehouseproduction) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-or email pachevaol@gmail.com
+Write to [Telegram](https://t.me/Olehouseproduction) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+or email [pachevaol@gmail.com](mailto:pachevaol@gmail.com)
 
 </div>
