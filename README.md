@@ -1,10 +1,11 @@
-
-
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFiZ3Z1MDBicGZzNzdhNWtxajF2OHU2MWh4d3JrMXVjYXNwam4xdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
-  <img src="https://komarev.com/ghpvc/olehouseproduction" alt=""/>
+ <div style="text-align: center;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFiZ3Z1MDBicGZzNzdhNWtxajF2OHU2MWh4d3JrMXVjYXNwam4xdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=olehouseproduction&style=flat" alt="views"/>
+  </div>
 
-## Hi there 👋
+## :wave: Hi there!
 
 My name is Olesya, I am a frontend developer with experience in adaptive and semantic layout, creating SPA applications on Vue3.
 I strive to deepen my knowledge in JavaScript and Vue.js, as well as to master new technologies. I would be happy to join a team where I can develop and contribute to interesting projects.
@@ -26,9 +27,7 @@ I strive to deepen my knowledge in JavaScript and Vue.js, as well as to master n
 
 ---
 
-
-
-### My projects:
+### :woman_technologist: My projects:
 
 <div align="left">
   
@@ -47,9 +46,5 @@ I strive to deepen my knowledge in JavaScript and Vue.js, as well as to master n
 
 Write to Telegram: [https://t.me/Olehouseproduction](https://t.me/Olehouseproduction) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 or email pachevaol@gmail.com
-
-
-
-
 
 </div>
